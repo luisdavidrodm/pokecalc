@@ -3,6 +3,8 @@ import time
 import sys
 import random
 
+print("Added a print")
+
 ############### menus ###############
 def start():
     """Excutes the main menu."""
