@@ -4,6 +4,7 @@ import sys
 import random
 
 print("Added a print")
+print("Added a second print")
 
 ############### menus ###############
 def start():
